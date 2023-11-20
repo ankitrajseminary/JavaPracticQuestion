@@ -1,4 +1,8 @@
 //Linear search
+//find the index of element in a given array
+//                      key = 10
+// 2,4,5,86,64,39,19,03,10,34,45
+
 public class ArrayLinerSearch
 {
     public static int linearSearch(int number[], int key)

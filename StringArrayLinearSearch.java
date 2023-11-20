@@ -9,8 +9,9 @@ public class StringArrayLinearSearch
                 return foodString[i];
             }
         }
-        return foodString[0];
+        return foodString[9];
     }
+    //main block
  public static void main(String[] args) 
  {
     String foodMenu[] = {"momo","samosha","egg roll","idly","litee","pani puri"};

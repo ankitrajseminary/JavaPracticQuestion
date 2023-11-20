@@ -1,0 +1,12 @@
+LinerSearch
+--------------------------------------------------------------------
+LinerSearch me time complexcity big of n [0(n)] hoti hai
+
+sb se jada time loop me liya gye 
+worst case:
+    jb pura loop chal gya or element mila nhi
+---------------------------------------------------------------------
+Largest Number
+---------------------------------------------------------------------
+java ke term me -infinity hota hai integer.MIN_VALUE or +infinity hota hai integer.MAX_VALUE
+-∞ = Integer.MIN_VALUE  or +∞ = Integer.MAX_VALUE (under java.util;)
